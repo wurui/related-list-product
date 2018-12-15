@@ -3,7 +3,13 @@
   "name": "related-list-product",
   "apiDependencies": [
   {
-    "name": "ecom-products"
+    "name": "ecom-products",
+    "LINK":[
+    	{
+    		"title":"查看详情",
+    		"name":"detail"
+    	}
+    ]
   }
 ]
 }
